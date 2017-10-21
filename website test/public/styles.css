@@ -1,0 +1,52 @@
+
+body{
+font-family: comic;
+color: #989898;
+}
+
+/*.form-control{
+  width: 70%;
+}*/
+
+
+
+
+
+
+/*input[type="text"]{
+width: 70%;
+padding: 20px;
+background:#181c22;
+border: 0;
+float: left;
+font-size: 20px;
+color: #993366;
+}
+
+
+
+ul{
+list-style-type: none;
+padding: 0;
+margin: 0;
+}*/
+
+li{
+/*width: 100%;
+padding: 20px;*/
+/*box-sizing: border-box;*/
+/*font-family: arial;*/
+font-size: 20px;
+cursor: pointer;
+/*letter-spacing: 1px;*/
+}
+
+.jumbotron{
+  background: #0d1521;
+  margin-bottom : 0px;
+}
+
+li:hover{
+text-decoration: line-through;
+background: rgba(255,90,0,0.5);
+}
